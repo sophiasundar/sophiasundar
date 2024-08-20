@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning MERN Stack
 - 💬 Ask me about  **HTML, CSS, REACT, NODE, MONGODB, EXPRESS**
 - 📫 How to reach me:[Email](mailto:sophiagifta17@gmail.com)
--  Connect with me:[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](www.linkedin.com/in/sophia-gifta17)
+-  Connect with me:[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/sophia-gifta17)
   
 
 

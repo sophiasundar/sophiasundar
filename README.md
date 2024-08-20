@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🔭 Here is my [Portfolio](https://portfolio-sophia-one.vercel.app/)
 - 🌱 I’m currently learning MERN Stack
 - 💬 Ask me about  **HTML, CSS, REACT, NODE, MONGODB, EXPRESS**
-- 📫 How to reach me: [Email](sophiagifta17@gmail.com)
+- 📫 How to reach me: [Email](<a href='mailto: sophiagifta17@gmail.com' rel="noreferrer" target="_blank">)
 
 

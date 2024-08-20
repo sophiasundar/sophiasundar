@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Sophia 
 
+A passionate MERN Stack Developer
 <!--
 **sophiasundar/sophiasundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -13,4 +13,4 @@
   
 **Languages and Tools:**
 
-[<img width="240" height="240" src="https://img.icons8.com/color/240/html-5--v1.png" alt="html-5--v1"/>](https://www.w3schools.com/html/)  [<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>](https://www.w3schools.com/css/) 
+[<img width="48" height="48" src="https://img.icons8.com/color/240/html-5--v1.png" alt="html-5--v1"/>](https://www.w3schools.com/html/)  [<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>](https://www.w3schools.com/css/) 

@@ -13,7 +13,7 @@
 - 💬 Ask me about  **HTML, CSS, REACT, NODE, MONGODB, EXPRESS**
 - 📫 How to reach me:[Email](mailto:sophiagifta17@gmail.com)
 
- **Connect with me:**                                                                                                                                         
+ **<h3 align="left">Connect with me: </h3>**                                                                                                                                         
   [<img align='left' width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/sophia-gifta17/)
 
 

@@ -12,7 +12,12 @@
 - 🌱 I’m currently learning MERN Stack
 - 💬 Ask me about  **HTML, CSS, REACT, NODE, MONGODB, EXPRESS**
 - 📫 How to reach me:[Email](mailto:sophiagifta17@gmail.com)
--  Connect with me: <br>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sophia-gifta17)
+- <h3 align="left">Connect with me:</h3>
+<p align="left">
+  <br>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sophia-gifta17)
+</p>
+
+
   
 **Languages and Tools:**
 

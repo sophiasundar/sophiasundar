@@ -4,7 +4,7 @@
 <h3 align="center">A passionate MERN Stack Developer</h3>  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sophiasundar&label=Profile%20views&color=0e75b6&style=flat" alt="sophiasundar" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sophiasundar" alt="sophiasundar" /></a> </p>
 
-<img align="right" width="370" height="290" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
+<img align="right" width="370" height="300" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 
 - 🔭 Here is my [Portfolio](https://portfolio-sophia-one.vercel.app/)

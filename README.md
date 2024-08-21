@@ -14,7 +14,6 @@
 - 📫 How to reach me:[Email](mailto:sophiagifta17@gmail.com)
 
  **Connect with me:**                                                                                                                                         
-[<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sophia-gifta17)
 
 **<h3 align="left">Languages and Tools: </h3>**
 

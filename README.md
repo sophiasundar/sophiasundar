@@ -15,7 +15,9 @@
 
  **Connect with me:**                                                                                                                                         
   [<img align='left' width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/sophia-gifta17/)
-  
+
+
+  <br/>
 **<h3 align="left">Languages and Tools: </h3>**
 <br/>
 

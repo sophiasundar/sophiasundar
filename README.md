@@ -7,8 +7,8 @@
 <img align="right" width="370" height="300" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 
-- 🔭 Here is my [Portfolio](https://portfolio-sophia-one.vercel.app/)
-- 📄 Here is my [Resume](https://drive.google.com/file/d/1ZBoFu2Q718Wmg8r1_R4_JJ8UvalOd6j7/view?usp=sharing)
+- 🔭 Here is my [Portfolio](https://portfolio-sophia-17.vercel.app/)
+- 📄 Here is my [Resume](https://drive.google.com/file/d/1eIPcq4DdGkTcX5vACuOdqUkTLUUZAU_y/view?usp=sharing)
 - 🌱 I’m currently learning MERN Stack
 - 💬 Ask me about  **HTML, CSS, REACT, NODE, MONGODB, EXPRESS**
 - 📫 How to reach me:[Email](mailto:sophiagifta17@gmail.com)

@@ -8,7 +8,7 @@
 
 
 - 🔭 Here is my [Portfolio](https://portfolio-sophia-17.vercel.app/)
-- 📄 Here is my [Resume](https://drive.google.com/file/d/1eIPcq4DdGkTcX5vACuOdqUkTLUUZAU_y/view?usp=sharing)
+- 📄 Here is my [Resume](https://drive.google.com/file/d/1uZ3NGEvpAT3JfKi03028HV_5dDsBW3ud/view?usp=sharing)
 - 🌱 I’m currently learning MERN Stack
 - 💬 Ask me about  **HTML, CSS, REACT, NODE, MONGODB, EXPRESS**
 - 📫 How to reach me:[Email](mailto:sophiagifta17@gmail.com)
